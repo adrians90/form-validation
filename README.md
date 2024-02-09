@@ -6,3 +6,6 @@ There is an event listener on form submission which checks if the conditions of 
 Part of JavaScript simplified course :
 
 https://javascriptsimplified.com/
+
+Live on :
+https://adrians90.github.io/form-validation/
