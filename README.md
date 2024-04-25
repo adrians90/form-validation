@@ -9,3 +9,6 @@ https://javascriptsimplified.com/
 
 Live on :
 https://adrians90.github.io/form-validation/
+
+![image](https://github.com/adrians90/form-validation/assets/128593202/997fdf50-807a-45f9-8fe8-a324041de54b)
+
